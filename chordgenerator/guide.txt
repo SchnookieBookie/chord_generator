@@ -1,0 +1,15 @@
+adresa prohlížeče:
+http://127.0.0.1:8012
+
+cd C:\cesta\kam\jsi\stahnul\chordgenerator
+php -S 127.0.0.1:8012 -t .
+
+NEBO
+
+cd C:\cesta\kam\jsi\stahnul\chordgenerator
+C:\xampp\php\php.exe -S 127.0.0.1:8012 -t .
+
+
+
+
+Alternativní port: 8013
