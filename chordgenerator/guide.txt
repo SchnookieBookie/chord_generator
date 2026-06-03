@@ -1,6 +1,8 @@
 adresa prohlížeče:
 http://127.0.0.1:8012
 
+(powershell složky s projektem nebo cmd)
+
 cd C:\cesta\kam\jsi\stahnul\chordgenerator
 php -S 127.0.0.1:8012 -t .
 
