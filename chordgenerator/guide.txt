@@ -13,5 +13,5 @@ C:\xampp\php\php.exe -S 127.0.0.1:8012 -t .
 
 
 
-
+ukazky: https://oauh-my.sharepoint.com/:f:/g/personal/skrasek_nikola_oauh_cz/IgAqRW94Z4GTTburrIyhGnHNAe8XKnrVK_7pu7tiA6v9C3U?e=7LvdcH
 Alternativní port: 8013
